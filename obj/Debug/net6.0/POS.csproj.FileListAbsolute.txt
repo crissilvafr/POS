@@ -1,0 +1,15 @@
+/home/crissilvafr/POS/bin/Debug/net6.0/POS
+/home/crissilvafr/POS/bin/Debug/net6.0/POS.deps.json
+/home/crissilvafr/POS/bin/Debug/net6.0/POS.runtimeconfig.json
+/home/crissilvafr/POS/bin/Debug/net6.0/POS.dll
+/home/crissilvafr/POS/bin/Debug/net6.0/POS.pdb
+/home/crissilvafr/POS/obj/Debug/net6.0/POS.csproj.AssemblyReference.cache
+/home/crissilvafr/POS/obj/Debug/net6.0/POS.GeneratedMSBuildEditorConfig.editorconfig
+/home/crissilvafr/POS/obj/Debug/net6.0/POS.AssemblyInfoInputs.cache
+/home/crissilvafr/POS/obj/Debug/net6.0/POS.AssemblyInfo.cs
+/home/crissilvafr/POS/obj/Debug/net6.0/POS.csproj.CoreCompileInputs.cache
+/home/crissilvafr/POS/obj/Debug/net6.0/POS.dll
+/home/crissilvafr/POS/obj/Debug/net6.0/refint/POS.dll
+/home/crissilvafr/POS/obj/Debug/net6.0/POS.pdb
+/home/crissilvafr/POS/obj/Debug/net6.0/POS.genruntimeconfig.cache
+/home/crissilvafr/POS/obj/Debug/net6.0/ref/POS.dll
